@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SquareRoot
+comment0.text=\r\n\r\n\ Java\ program\ to\ find\ the\ square\ root\ of\ a\ number\ in\ Java.\r\n\ This\ Java\ program\ example\ demonstrates\ using\ Math\ class\r\n\ sqrt()\ method\ to\ get\ the\ square\ root\ of\ a\ number\ in\ Java.\r\n\r\n\ @author\ Mansi\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
